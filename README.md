@@ -48,7 +48,7 @@ See the [website](https://telography.saasagentai.com) for what each plan include
 ## Screenshots
 
 <p align="center">
-  <img src="assets/bot-home.png" alt="Telography bot home screen in Telegram" width="480">
+  <img src="bot-home.png" alt="Telography bot home screen in Telegram" width="480">
 </p>
 
 <p align="center"><em>The Telography home screen: choose your topic, update mode and approval mode, then fetch the latest news with one tap.</em></p>
